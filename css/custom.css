@@ -1,0 +1,11 @@
+/* ══ custom.css — جامعہ الفرقان base styles ══ */
+body {
+            font-family: 'Inter', 'Noto Naskh Arabic', 'Amiri', serif;
+            background-color: #f3f4f6;
+        }
+        .rtl-layout {
+            direction: rtl;
+        }
+        .ltr-layout {
+            direction: ltr;
+        }
